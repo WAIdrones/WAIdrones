@@ -6,10 +6,9 @@ title: Online Course Template
 hero_media: student.svg
 design:
   background:
-    gradient_angle: 0
-    gradient_start: 'rgb(224,223,255)'
-    gradient_end: 'rgb(153,238,255)'
-    text_color_light: false
+    video:
+      path: intro.mp4
+      flip: false
 cta:
   url: course/
   label: Explore our courses
