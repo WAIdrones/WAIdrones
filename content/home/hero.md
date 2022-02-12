@@ -7,7 +7,7 @@ title: Online Course Template
 design:
   background:
     video:
-      path: assets/media/intro.mp4
+      path: intro.mp4
       flip: false
 cta:
   url: course/
