@@ -7,7 +7,7 @@ title: Online Course Template
 design:
   background:
     video:
-      path: blob/main/content/home/intro.mp4
+      path: content/home/intro.mp4
       flip: false
 cta:
   url: course/
